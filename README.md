@@ -36,5 +36,5 @@ https://cellxgene.cziscience.com/datasets
 - Dot plot of marker genes
 
 ## Author
-Mukesh Varathan
+Mukesh Varathan,
 MSc Microbiology
